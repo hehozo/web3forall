@@ -21,7 +21,7 @@ export const images = [
     name: "arweave",
     id: "arweave",
     category: ["all", "layer 1"],
-    url: "https://ik.imagekit.io/onboard/web3forall/arweave.png",
+    url: "https://arweave.net/L6hx-Pdk7TaKxolRRsNPMxOE4vTkmxZLJzbTgZsif-E",
   },
   {
     name: "base",
